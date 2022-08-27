@@ -1,0 +1,15 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "Learning Npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ashik",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "date-format": "^4.0.13"
+  }
+}
